@@ -1,0 +1,2 @@
+Voce encontrará vários exercícios resolvidos que utilizam laços de repetição.
+Leia o Readme do repositório para saber mais sobre os exercícios.
