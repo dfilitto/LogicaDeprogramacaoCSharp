@@ -1,0 +1,6 @@
+C:\Users\danilo.filitto\source\repos\AcerteONumero\AcerteONumero\bin\Debug\AcerteONumero.exe.config
+C:\Users\danilo.filitto\source\repos\AcerteONumero\AcerteONumero\bin\Debug\AcerteONumero.exe
+C:\Users\danilo.filitto\source\repos\AcerteONumero\AcerteONumero\bin\Debug\AcerteONumero.pdb
+C:\Users\danilo.filitto\source\repos\AcerteONumero\AcerteONumero\obj\Debug\AcerteONumero.csprojAssemblyReference.cache
+C:\Users\danilo.filitto\source\repos\AcerteONumero\AcerteONumero\obj\Debug\AcerteONumero.exe
+C:\Users\danilo.filitto\source\repos\AcerteONumero\AcerteONumero\obj\Debug\AcerteONumero.pdb
