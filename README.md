@@ -5,29 +5,18 @@
 
 
 ### 1º Constantes, operadores aritméticos e comandos de Saída
-#### Exercício exe1_01
-Crie um programa em modo console que exiba a tabuada do número 5;
-#### Exercício exe1_02
-Crie um programa em modo console que exiba os números pares do número 2 até o número 20;
-#### Exercício exe1_03
-Crie um programa em modo console que exiba a tradução das palavras help, bulet e work em português;
-#### Exercício exe1_04
-Crie um programa em modo console que exiba o fatorial do número 4;
-#### Exercício exe1_05
-Crie um programa em modo console que exiba o resultado da soma dos número 10 com o número 30;
-#### Exercício exe1_06
-Crie um programa em modo console que exiba todos os números primos do número 1 até o número 10;
-
+- Exercício exe1_01: Crie um programa em modo console que exiba a tabuada do número 5;
+- Exercício exe1_02: Crie um programa em modo console que exiba os números pares do número 2 até o número 20;
+- Exercício exe1_03: Crie um programa em modo console que exiba a tradução das palavras help, bulet e work em português;
+- Exercício exe1_04: Crie um programa em modo console que exiba o fatorial do número 4;
+- Exercício exe1_05: Crie um programa em modo console que exiba o resultado da soma dos número 10 com o número 30;
+- Exercício exe1_06: Crie um programa em modo console que exiba todos os números primos do número 1 até o número 10;
 
 ### 2º Variáveis, operadores, comandos de entrada e comandos de saída
-#### Exercício exe2_01
-Crie um programa em modo console no qual o usuário deverá armazenar seu nome em uma variável e exibir o mesmo na tela;
-#### Exercício exe2_02
-Crie um programa em modo console que efetue a soma de dois número e exiba o resultado na tela
-#### Exercício exe2_03
-Crie um programa em modo console que exiba a tabuada de um número informado pelo usuário;
-#### Exercício exe2_04
-Crie um programa em modo console que exiba idade do usuário. O usuário deverá informar seu ano de nascimento e ano atual. 
+- Exercício exe2_01: Crie um programa em modo console no qual o usuário deverá armazenar seu nome em uma variável e exibir o mesmo na tela;;
+- Exercício exe2_02: Crie um programa em modo console que efetue a soma de dois número e exiba o resultado na tela;
+- Exercício exe2_03: Crie um programa em modo console que exiba a tabuada de um número informado pelo usuário;
+- Exercício exe2_04: Crie um programa em modo console que exiba idade do usuário. O usuário deverá informar seu ano de nascimento e ano atual;
 Não é necessário validar a questão do ano bissexto.
 #### Exercício exe2_05
 Crie um programa em modo console que calcule a média de 5 números e exiba o resultado para o usuário.
