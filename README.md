@@ -13,15 +13,12 @@
 - **Exercício exe1_06:** Crie um programa em modo console que exiba todos os números primos do número 1 até o número 10;
 
 ### 2º Variáveis, operadores, comandos de entrada e comandos de saída
-- Exercício exe2_01: Crie um programa em modo console no qual o usuário deverá armazenar seu nome em uma variável e exibir o mesmo na tela;;
-- Exercício exe2_02: Crie um programa em modo console que efetue a soma de dois número e exiba o resultado na tela;
-- Exercício exe2_03: Crie um programa em modo console que exiba a tabuada de um número informado pelo usuário;
-- Exercício exe2_04: Crie um programa em modo console que exiba idade do usuário. O usuário deverá informar seu ano de nascimento e ano atual;
-Não é necessário validar a questão do ano bissexto.
-#### Exercício exe2_05
-Crie um programa em modo console que calcule a média de 5 números e exiba o resultado para o usuário.
-#### Exercício exe2_05
-Crie um programa em modo console que leia um número inteiro com três digitos e inverta o número informado. Exemplo número informado 123, número que deverá ser exibido para o usuário 321.
+- **Exercício exe2_01:** Crie um programa em modo console no qual o usuário deverá armazenar seu nome em uma variável e exibir o mesmo na tela;;
+- **Exercício exe2_02:** Crie um programa em modo console que efetue a soma de dois número e exiba o resultado na tela;
+- **Exercício exe2_03:** Crie um programa em modo console que exiba a tabuada de um número informado pelo usuário;
+- **Exercício exe2_04:** Crie um programa em modo console que exiba idade do usuário. O usuário deverá informar seu ano de nascimento e ano atual. Não é necessário validar a questão do ano bissexto;
+- **Exercício exe2_05:** Crie um programa em modo console que calcule a média de 5 números e exiba o resultado para o usuário.
+- **Exercício exe2_05:** Crie um programa em modo console que leia um número inteiro com três digitos e inverta o número informado. Exemplo número informado 123, número que deverá ser exibido para o usuário 321;
 
 ###3º comandos de decisão
 #### Exercício exe3_01
