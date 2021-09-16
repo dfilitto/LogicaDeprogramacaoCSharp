@@ -20,7 +20,7 @@
 - **Exercício exe2_05:** Crie um programa em modo console que calcule a média de 5 números e exiba o resultado para o usuário.
 - **Exercício exe2_05:** Crie um programa em modo console que leia um número inteiro com três digitos e inverta o número informado. Exemplo número informado 123, número que deverá ser exibido para o usuário 321;
 
-###3º comandos de decisão
+### 3º comandos de decisão
 - **Exercício exe3_01:** Crie um programa em modo console que informe se um número informádo pelo usuário é par ou impar;
 - **Exercício exe3_02:** Crie um programa em modo console que informe se um número informádo pelo usuário é par ou impar;
 - **Exercício exe2_03:** Crie um programa em modo console que calcule a média de 4 notas e exiba o resultado para o usuário. Caso a média seja inferior a 7 informar para o usuário que o mesmo foi reprovado na disciplina, caso a nota seja igual ou superior a sete informar para o usuário que o mesmo foi aprovado na disciplina;
