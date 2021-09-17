@@ -28,7 +28,7 @@
 ### 4º Laço de repetição
 - **Exercício exe4_01:** Crie um programa em modo console que exiba a tabuada de um número informado pelo usuário;
 - **Exercício exe4_02:** Crie um programa em modo console que exiba todos os números pares entre dois valores informados pelo usuário;
-- **Exercício exe4_03:** Crie um programa em modo console que calcule a média de dos números informados pelo usuário. O usuário deverá informar no programa a quantidades de números que irá informar no programa;
+- **Exercício exe4_03:** Crie um programa em modo console que calcule a média de todos os números informados pelo usuário. O usuário deverá informar no programa a quantidades de números que irá informar no programa;
 - **Exercício exe4_04:** Crie um programa no qual o jogador tem 3 tentativas de adivinhar um número definido alheatóriamente pelo computador entre o número 1 e 10. Caso o usuário erre o número informado você deverá dar uma dica se o número que o computador escolheu é maior ou menor que o número informado pelo usuário. O programa deverá repetir até que o jogador escolha finalizar o jogo;
 
 ### 5º modularização
