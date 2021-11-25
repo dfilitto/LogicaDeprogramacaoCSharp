@@ -33,3 +33,6 @@
 
 ### 5º modularização
 #### Exercício exe4_04
+
+### 6º Programação Orientada a Objetos
+- **Exercício exe6_01:** Crie o jogo par ou impar em modo console. O jogador deverá informar se é par ou impar e o valor numérico de sua escolha. Após isso, o computador deverá  no qual o jogador deverá escolher um valor de maneira aleatória. O jogo deverá determinar se o jogador venceu ou não. Utilize classe para representar o jogador e o computador em seu projeto.
