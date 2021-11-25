@@ -1,0 +1,6 @@
+C:\Users\danilo.filitto\source\repos\JogoParOuImpar\JogoParOuImpar\bin\Debug\JogoParOuImpar.exe.config
+C:\Users\danilo.filitto\source\repos\JogoParOuImpar\JogoParOuImpar\bin\Debug\JogoParOuImpar.exe
+C:\Users\danilo.filitto\source\repos\JogoParOuImpar\JogoParOuImpar\bin\Debug\JogoParOuImpar.pdb
+C:\Users\danilo.filitto\source\repos\JogoParOuImpar\JogoParOuImpar\obj\Debug\JogoParOuImpar.csprojAssemblyReference.cache
+C:\Users\danilo.filitto\source\repos\JogoParOuImpar\JogoParOuImpar\obj\Debug\JogoParOuImpar.exe
+C:\Users\danilo.filitto\source\repos\JogoParOuImpar\JogoParOuImpar\obj\Debug\JogoParOuImpar.pdb
